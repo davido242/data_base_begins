@@ -17,3 +17,5 @@
 	</fieldset>
 </form>
 <h3>Finalist &copy <?php echo date("l D M, Y");?></h3>
+Net working capital is:
+<h2 id="vimo9i" style="display: inline-block;"></h2>
